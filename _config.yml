@@ -4,17 +4,17 @@
 
 # Site
 title: Secret Superstar
-subtitle:
-description:
+subtitle: 天生我材必有用，千金散尽还复来
+description: Coding, Reading and Enjoying
 author: Hermes Wu
-language:
-timezone:
+language: zh-Hans
+timezone: Asia/Beijing
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:month/:day/:category/:title/
 permalink_defaults:
 
 # Directory
@@ -72,10 +72,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-next
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
   repo: git@github.com:HermesWu/HermesWu.github.io.git
+
