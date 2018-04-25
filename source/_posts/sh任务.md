@@ -1,7 +1,8 @@
 ---
 title: sh任务
 date: 2018-03-12 17:43:39
-tags:
+tags: 命令行
+categories: 编程基础
 ---
 #### 代码如下
 

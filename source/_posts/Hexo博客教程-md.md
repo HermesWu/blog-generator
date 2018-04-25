@@ -1,7 +1,8 @@
 ---
 title: Hexo博客教程.md
 date: 2018-04-22 21:47:12
-tags:
+tags: Hexo
+categories: Hexo
 ---
 
 ## 使用Hexo + GitHub搭建博客
