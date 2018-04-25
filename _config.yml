@@ -8,7 +8,7 @@ subtitle: 天生我材必有用，千金散尽还复来
 description: Coding, Reading and Enjoying
 author: Hermes Wu
 language: zh-Hans
-timezone: Asia/Beijing
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -78,5 +78,4 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:HermesWu/HermesWu.github.io.git
-
+  repo: git@github.com:HermesWu/HermesWu.github.io
