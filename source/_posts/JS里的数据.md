@@ -2,7 +2,7 @@
 title: JS里的数据
 date: 2018-04-24 11:24:38
 tags: JavaScript
-categories: 前端
+categories: JavaScript
 ---
 
 # JS里的数据

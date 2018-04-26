@@ -1,7 +1,7 @@
 ---
 title: Hexo升级大法（1）
 date: 2018-04-25 12:08:32
-tags: Hexo升级
+tags: Hexo
 categories: Hexo
 ---
 

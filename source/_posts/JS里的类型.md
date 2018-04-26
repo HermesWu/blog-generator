@@ -2,7 +2,7 @@
 title: JS里的类型
 date: 2018-04-25 11:27:37
 tags: JavaScript
-categories: 前端
+categories: JavaScript
 ---
 
 # JS里的类型
