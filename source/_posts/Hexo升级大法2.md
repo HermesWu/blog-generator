@@ -123,6 +123,21 @@ https://gist.githubusercontent.com/qhh0205/78e9e0b1f3114db6737f3ed8cdd51d3a/raw/
 {% endif %}
 ```
 
+# Hypercomments
+
+`gitlak`感觉不是很好用，也许是我配置的不对，移动端加载有点慢。所以现在改用`Hypercomments`,感觉很好用诶。
+
+1. [Hypercomments](https://www.hypercomments.com/)官网注册，需要谷歌账号，推荐蓝灯哦。
+
+2. 添加自己的博客地址，我的添加过了，没有截图了
+
+3. 首页选择`Admin`，点击管理，然后在`Widget`代码框中找到Widget_id，记录下来 
+
+4. 在NexT主题的配置文件找到`hypercomments_id`，填入上面记录的Id。
+
+5. 齐活，赶紧瞅瞅去吧。
+
+
 
 
 

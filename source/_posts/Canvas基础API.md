@@ -2,7 +2,7 @@
 title: Canvas基础API
 date: 2018-04-25 11:27:22
 tags: Canvas
-categories: 前端
+categories: CSS3
 ---
 
 # canvas
